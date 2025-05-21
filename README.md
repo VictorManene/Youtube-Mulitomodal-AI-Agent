@@ -15,7 +15,7 @@ VideoInsight AI is an AI‑powered virtual assistant that transforms YouTube vid
 6. **Query** content via Groq’s LLM API or follow-up chat.
 7. **AI Agent** (ReAct) automates analysis, summarization, and Q\&A.
 8. **Text‑to‑Speech** playback of AI responses.
-9. **Web UI** built with Gradio for seamless multimodal & agent modes.
+9. **Web UI** built with Gradio for seamless multimodal & agent modes, you can sign in/sign up to toggle between multimodal and agent model
 
 ### Problems Solved
 
